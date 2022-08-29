@@ -31,7 +31,7 @@
 ## How the website looks like
 
 <p align="center">
-<img src="./assets/desktop.gif" max-width=600px>
+<img src="./images/desktop.gif" max-width=600px>
 </p>
 
 ---
